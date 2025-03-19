@@ -26,7 +26,7 @@
 # Strong (Score: 5) → Meets all criteria
 
 # 3. Feedback System
-.
+
 # If the password is weak, suggest improvements.
 # If the password is strong, display a success message.
 
